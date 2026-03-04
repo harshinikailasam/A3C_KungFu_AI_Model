@@ -157,6 +157,7 @@ The critic network is trained to minimize the error between predicted and actual
 ## ▶️ Getting Started
 
 ### 1. Clone the repository
+```bash
 git clone https://github.com/harshinikailasam/A3C_KungFu_AI_Model.git
 cd A3C_KungFu_AI_Model
 
