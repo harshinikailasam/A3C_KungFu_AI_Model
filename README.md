@@ -156,13 +156,24 @@ The critic network is trained to minimize the error between predicted and actual
 
 ## ▶️ Getting Started
 
-### 1. Clone the repository
+1. Clone the repository
+
 ```bash
 git clone https://github.com/harshinikailasam/A3C_KungFu_AI_Model.git
 cd A3C_KungFu_AI_Model
+```
 
-### 2.	Install dependencies:
+
+2. Install dependencies
+
+```bash
 pip install -r requirements.txt
+```
+
 
 ### 3. Run the notebook
+
+Open:
+
 notebooks/A3C_for_Kung_Fu.ipynb
+
