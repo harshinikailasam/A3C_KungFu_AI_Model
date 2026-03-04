@@ -1,0 +1,9 @@
+torch
+gymnasium
+gymnasium[atari]
+ale-py
+numpy
+opencv-python
+matplotlib
+tqdm
+ipykernel
